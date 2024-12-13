@@ -12,7 +12,7 @@ As imagens mostram o funcionamento do circuito durante a noite, quando a luz ama
 Abaixo a comprovação do funcionmento 
 
 <div align="center">
-<sub>Figura 2  </sub>
+<sub>Figura 2<sub><br>
 <img src="Captura de tela de 2024-12-13 11-03-55.png"><br>
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
